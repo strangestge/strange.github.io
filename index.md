@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+  # Site settings
+  title: My Blog
+  SEOTitle: 我的博客 | My Blog
+  header-img: img/post-bg-desk.jpg
+  email: 暂无
+  description: "写一句你想写的话"
+  keyword: "我的博客"
+  url: "http://name.github.io"          # name改成你的ID
+  baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+  github_repo: "https://github.com/name/name.github.io.git" # 用你的ID替换name
 
-You can use the [editor on GitHub](https://github.com/strangestge/strange.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  # Sidebar settings
+  sidebar: true                           # whether or not using Sidebar.
+  sidebar-about-description: "苟利国家生死以，岂因祸福避趋之~"
+  sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/strangestge/strange.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  # SNS settings
+  RSS: false
+  # weibo_username: 暂无
+  zhihu_username:     暂无
+  github_username:    暂无
+  facebook_username:  暂无
+  jianshu_username:   暂无
+  #twitter_username: 暂无
